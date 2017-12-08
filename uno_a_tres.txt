@@ -9,6 +9,18 @@
 GIT: herramienta que instalamos en nuestro ordenador.
 Cada cierto tiempo con esta herramienta sacamos una serie de instantaneas o snatpshot en Inglés. Vamos a tener todo el historial de nuestro proyecto.
 
-GITHUB:
-	Nos permite guardar el código fuera de nuestro ordenador en  alguna parte. CUANDO QUEREMO O NO COMPARTIR EL CODIGO, TRABAJO,
-COPIAS DE SEGURIDAD, guardar librerias
+DESDE DONDE LO DESCARGAMOS:
+	https://git-scm.com/
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+2.- QUÉ ES GITHUB: 
+	Nos permite guardar el código fuera de nuestro ordenador en  alguna parte. CUANDO QUEREMOS O NO COMPARTIR EL CODIGO, TRABAJO,
+COPIAS DE SEGURIDAD, guardar librerias...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+DIFERENCIAS ENTRE GIT y GIT HUB:
+	NO SON LO MISMO!
+
+GIT  es una herramienta de la linea de comandos,  se comunica  con nuestro ordenador por medio de la terminal
