@@ -23,4 +23,16 @@ COPIAS DE SEGURIDAD, guardar librerias...
 DIFERENCIAS ENTRE GIT y GIT HUB:
 	NO SON LO MISMO!
 
-GIT  es una herramienta de la linea de comandos,  se comunica  con nuestro ordenador por medio de la terminal
+GIT  es una herramienta de la linea de comandos,  se comunica  con nuestro ordenador por medio de la terminal.
+	 Si no queremos utilizar git desde lal linea de comandos, existen herramientas como github desktop, ... solo hacemos click en los iconos, etc, pero solo de forma local...
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+GITHUB: 
+	Es una plataforma de alojamiento, una vez creada una cuenta podemos comprar distintos productos, podemos utilizar cada uno por separado.
+         Con la interfaz de github podemos hacer cosillas, sin utilizar comandos.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
