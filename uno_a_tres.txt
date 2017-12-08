@@ -32,6 +32,9 @@ GITHUB:
          Con la interfaz de github podemos hacer cosillas, sin utilizar comandos.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+OJO: INTERESANTE LA OPCION PARA ESTUDIANTES//
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  
 
 
 
